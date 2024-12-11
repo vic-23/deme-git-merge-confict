@@ -4,5 +4,5 @@ adios venus
 lenea1
 lenea2
 
-linea10
-linea20
+lineaX
+lineaY
