@@ -1,8 +1,8 @@
-hola mundo de piruleta
+hola mundo de fresa
 adios venus
 
 lenea1
 lenea2
 
-linea10
-linea20
+linea40
+linea50
