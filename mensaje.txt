@@ -1,8 +1,8 @@
-hola mundo de fresa
+hola mundo
 adios venus
 
 lenea1
 lenea2
 
-lineaX
+lineaZ
 lineaY
